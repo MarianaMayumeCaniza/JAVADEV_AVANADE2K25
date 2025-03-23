@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AulaCep/AulaCep.iml" filepath="$PROJECT_DIR$/AulaCep/AulaCep.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVADEV_AVANADE2K25.iml" filepath="$PROJECT_DIR$/.idea/JAVADEV_AVANADE2K25.iml" />
     </modules>
   </component>
